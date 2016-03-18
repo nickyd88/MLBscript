@@ -115,7 +115,6 @@ for player in playerlist.values():
 
 startinglist = sorted(allstarters, key= lambda player: player.salary, reverse= True)
 
-
 print "\nGenerating Lineups...\n\n"
 
 lineupnum = 0
@@ -124,7 +123,7 @@ minstarters = 8
 clearplayers = 8
 maxp1 = 5000
 maxsalary = 50000
-minsalary = 48000
+minsalary = 49000
 legallineups = []
 p1 = 0
 while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players to build the full 8 person lineup
@@ -136,6 +135,7 @@ while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players t
     p2 = p1 + 1
     while p2 < len(startinglist) - 6:
         if curplayer > maxp1:
+            print "Exhausted",startinglist[p1].name,"lineups"
             break
         partial2 = []
         partial2.extend(partial1)
@@ -143,6 +143,7 @@ while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players t
         p3 = p2 + 1
         while p3 < len(startinglist) - 5:
             if curplayer > maxp1:
+                print "Exhausted",startinglist[p1].name,"lineups"
                 break
             partial3 = []
             partial3.extend(partial2)
@@ -150,6 +151,7 @@ while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players t
             p4 = p3 + 1
             while p4 < len(startinglist) - 4:
                 if curplayer > maxp1:
+                    print "Exhausted",startinglist[p1].name,"lineups"
                     break
                 partial4 = []
                 partial4.extend(partial3)
@@ -157,6 +159,7 @@ while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players t
                 p5 = p4 + 1
                 while p5 < len(startinglist) - 3:
                     if curplayer > maxp1:
+                        print "Exhausted",startinglist[p1].name,"lineups"
                         break
                     partial5 = []
                     partial5.extend(partial4)
@@ -164,6 +167,7 @@ while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players t
                     p6 = p5 + 1
                     while p6 < len(startinglist) - 2:
                         if curplayer > maxp1:
+                            print "Exhausted",startinglist[p1].name,"lineups"
                             break
                         partial6 = []
                         partial6.extend(partial5)
@@ -171,6 +175,7 @@ while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players t
                         p7 = p6 + 1
                         while p7 < len(startinglist) - 1:
                             if curplayer > maxp1:
+                                print "Exhausted",startinglist[p1].name,"lineups"
                                 break
                             partial7 = []
                             partial7.extend(partial6)
@@ -178,6 +183,7 @@ while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players t
                             p8 = p7 + 1
                             while p8 < len(startinglist):
                                 if curplayer > maxp1:
+                                    print "Exhausted",startinglist[p1].name,"lineups"
                                     break
                                 partial8 = []
                                 partial8.extend(partial7)
@@ -196,7 +202,7 @@ while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players t
                                     lineupnum += 1
                                     if lineupnum == 1000000:
                                         lineupnum = 0
-                                        print "Checked",mill,"million lineups"
+                                        print "Checked",mill,"million lineups, and found",len(legallineups),"legal lineups"
                                         mill += 1
                                     starter = starter + player.starting
                                     salary = salary + player.salary
