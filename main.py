@@ -118,6 +118,8 @@ startinglist = sorted(allstarters, key= lambda player: player.salary, reverse= T
 
 print "\nGenerating Lineups...\n\n"
 
+lineupnum = 0
+mill = 1
 minstarters = 8
 clearplayers = 8
 maxp1 = 5000
@@ -128,6 +130,7 @@ p1 = 0
 while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players to build the full 8 person lineup
     curplayer = 1
     if startinglist[p1].salary < minsalary/8:
+        print "Checked all reasonable lineups"
         break
     partial1 = [startinglist[p1]]
     p2 = p1 + 1
@@ -190,6 +193,11 @@ while p1 < len(startinglist)-7: # - 7 because we need at least 7 other players t
                                 g = 0
                                 f = 0
                                 for player in partial8:
+                                    lineupnum += 1
+                                    if lineupnum == 1000000:
+                                        lineupnum = 0
+                                        print "Checked",mill,"million lineups"
+                                        mill += 1
                                     starter = starter + player.starting
                                     salary = salary + player.salary
                                     if player.status == 'Clear':
