@@ -1,5 +1,11 @@
-import csv
+########################################
+#######                          #######
+#####    Creating a Dictionary     #####
+#######                          #######
+########################################
 
+import csv
+import unicodedata
 
 class NameToDK:
     def __init__(self):
@@ -15,3 +21,7 @@ class NameToDK:
             return id
         except KeyError:
             return 0
+
+
+def Ascii(unicode):
+    return unicodedata.normalize('NFKD', unicode.decode('latin-1')).encode('ascii', 'ignore')

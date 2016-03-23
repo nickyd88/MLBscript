@@ -6,6 +6,8 @@
 
 import urllib2
 from bs4 import BeautifulSoup
+import unicodedata
+from namemapper import Ascii
 
 class BaseballPressReader:
 
@@ -21,6 +23,9 @@ class BaseballPressReader:
         if len(self.starters) == 0:
             games = self.soup.find_all('div', {'class' : 'game clearfix'})
             for game in games: #i = 0 through # of games
+                pitchers = game.find_all('a', {'class' : 'player-link'})
+                for player in pitchers:
+                    self.starters.append([0, player.text, 'NA', 'SP'])
                 matchup = game.find_all('div', {'class' : 'cssDialog clearfix'})[0]
                 teams = matchup.find_all('div', {'class' : 'team-lineup clearfix'})
                 for team in teams:
@@ -29,9 +34,10 @@ class BaseballPressReader:
                     for player in players:
                         order = int(player.text.split('.')[0])
                         name = player.a.text
+                        asciiname = Ascii(name)
                         handedness = player.text.split("(")[1].split(") ")[0]
                         position = player.text.split("(")[1].split(") ")[1]
-                        self.starters.append([order, name, handedness, position])
+                        self.starters.append([order, asciiname, handedness, position])
             return self.starters
         else:
             return self.starters

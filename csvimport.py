@@ -6,8 +6,9 @@
 
 ## Turn .csv import file into a class
 
-import csv
+import csv as csv
 import player
+import unicodedata
 
 class DKSalaryImport:
 
@@ -19,7 +20,7 @@ class DKSalaryImport:
             self.players = {}
             for row in dksalariesreader:
                 if currentrow > startrow:
-                    playerobject = player.Player(row[9], row[11], int(row[12]), int(row[13]), row[14], row[15], 'NoOpp', 0, 'NoStatus', 0, 0)
+                    playerobject = player.Player(row[11], row[13], int(row[14]), int(row[15]), row[16], row[17])
                     self.players[playerobject.name] = playerobject
                 currentrow += 1
 

@@ -4,20 +4,30 @@
 # #         - Name, Matchup, Position, Salary, PlayerId, etc.
 #
 
+from namemapper import Ascii
+
 class Player:
 
-    def __init__(self, position, name, dkId, salary, gameInfo, team, opp, projFP, status, starting, confirmed):
+    def __init__(self, position, uname, dkId, salary, gameInfo, team):
         self.position = position
-        self.name = name
+        self.name = Ascii(uname)
+        self.uname = uname
         self.dkId = dkId
         self.salary = salary
         self.gameInfo = gameInfo
         self.team = team
-        self.opp = opp
-        self.projFP = projFP
-        self.status = status
-        self.starting = starting
-        self.confirmed = confirmed
+        self.IsStarting = 0
+        self.IsConfirmed = 0
+        self.battingOrder = 0
+        self.handedness = 'NA'
+        if self.gameInfo.split('@')[0] == self.team:
+            self.opp = self.gameInfo.split('@')[1].split()[0]
+        else:
+            self.opp = self.gameInfo.split('@')[0]
 
     def Print(self):
-        print(self.name, self.position, self.team, self.salary, self.dkId, self.gameInfo, self.opp, self.projFP, self.status, self.starting, self.confirmed)
+        print(self.name, self.position, self.battingOrder, self.team, self.opp, self.salary, self.dkId)
+
+
+
+
