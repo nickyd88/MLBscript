@@ -18,7 +18,7 @@ class Player:
         self.team = team
         self.IsStarting = 0
         self.IsConfirmed = 0
-        self.battingOrder = 0
+        self.battingOrder = 'NA'
         self.handedness = 'NA'
         if self.gameInfo.split('@')[0] == self.team:
             self.opp = self.gameInfo.split('@')[1].split()[0]
