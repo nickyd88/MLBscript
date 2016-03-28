@@ -21,3 +21,4 @@ class WriteMissingNames:
             for player in self.scrapednames:
                 if self.map.GetDKFromName(player) == 0:
                     nameFilewriter.writerow([player])
+
