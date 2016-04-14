@@ -23,5 +23,21 @@ class NameToDK:
             return 0
 
 
+class TeamAbbrv:
+    def __init__(self):
+        self.idSet = {}
+        with open('TeamAbbrevs.csv', 'rb') as idConversions:
+            idReader = csv.reader(idConversions, delimiter=',')
+            for idRow in idReader:
+                self.idSet[idRow[0]] = idRow[1]
+
+    def GetDKAbbrv(self, nameString):
+        try:
+            id = self.idSet[nameString]
+            return id
+        except KeyError:
+            return 0
+
+
 def Ascii(unicode):
     return unicodedata.normalize('NFKD', unicode.decode('latin-1')).encode('ascii', 'ignore')

@@ -9,6 +9,7 @@
 import csv as csv
 import player
 import unicodedata
+from namemapper import Ascii
 
 class DKSalaryImport:
 
@@ -20,7 +21,7 @@ class DKSalaryImport:
             self.players = {}
             for row in dksalariesreader:
                 if currentrow > startrow:
-                    playerobject = player.Player(row[11], row[13], int(row[14]), int(row[15]), row[16], row[17])
+                    playerobject = player.Player(row[11], Ascii(row[13]), int(row[14]), int(row[15]), row[16], row[17])
                     self.players[playerobject.name] = playerobject
                 currentrow += 1
 
@@ -28,3 +29,10 @@ class DKSalaryImport:
         return self.players
 
 
+#playermap = DKSalaryImport('DKSalaries.csv').PlayerList()
+
+
+#with open('NewNames.csv', 'wb') as nameFile:
+#    nameFilewriter = csv.writer(nameFile)
+#    for player in playermap.values():
+#        nameFilewriter.writerow([Ascii(player.name)])

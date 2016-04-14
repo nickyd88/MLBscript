@@ -1,0 +1,648 @@
+Entry ID,Contest Name,Contest ID,Entry Fee,P,P,C,1B,2B,3B,SS,OF,OF,OF,,Instructions,,,,,,
+375517510,MLB Opening Day Employee Freeroll,22637672,$0 ,6408515,6408442,6408780,6408821,6408859,6408907,6408944,6409027,6409035,6409033,,1. Column A lists all of your contest entries for this draftgroup,,,,,,
+375528026, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408515,6408442,6408780,6408821,6408859,6408907,6408944,6409027,6409035,6409033,,2. Your current lineup is listed next to each entry (blank for reservations),,,,,,
+375528027, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408515,6408442,6408780,6408821,6408853,6408870,6408944,6409035,6409030,6409005,,3. You can change the lineup for an entry by entering the IDs of the players in the row next to that entry,,,,,,
+375528028, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408515,6408442,6408780,6408821,6408858,6408903,6408946,6409035,6409008,6409007,,4. Use data from the Name+ID column or the ID column; you cannot use just the player's name,,,,,,
+375528029, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408465,6408515,6408780,6408821,6408867,6408911,6408946,6409027,6409035,6409058,,5. For faster processing only include entries you are changing in the file you upload,,,,,,
+375528030, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408465,6408515,6408780,6408821,6408858,6408912,6408946,6409027,6409008,6409059,,,,,,,,
+375528031, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408515,6408442,6408770,6408820,6408859,6408907,6408945,6409033,6409042,6409005,,Position,Name + ID,Name,ID,Salary,Game Info,TeamAbbrev
+375528032, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408515,6408442,6408779,6408820,6408859,6408907,6408951,6409033,6409042,6409059,,SP,Max Scherzer (6408442),Max Scherzer,6408442,12300,Was@Atl 04:10PM ET,Was
+375528033, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408515,6408442,6408780,6408818,6408856,6408872,6408946,6409024,6409009,6409035,,SP,Stephen Strasburg (6408449),Stephen Strasburg,6408449,10600,Was@Atl 04:10PM ET,Was
+375528034, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408515,6408442,6408795,6408825,6408853,6408870,6408951,6409060,6409059,6409005,,SP,David Price (6408465),David Price,6408465,9800,Bos@Cle 04:10PM ET,Bos
+375535239, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408777,6408820,6408857,6408907,6408943,6409008,6409017,6409033,,SP,Madison Bumgarner (6408515),Madison Bumgarner,6408515,9200,SF@Mil 02:10PM ET,SF
+375535240, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408777,6408812,6408870,6408903,6408943,6409008,6409007,6409005,,SP,Gio González (6408441),Gio González,6408441,9100,Was@Atl 04:10PM ET,Was
+375535241, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408778,6408818,6408856,6408872,6408951,6409024,6409027,6409059,,SP,Dallas Keuchel (6408430),Dallas Keuchel,6408430,9000,Postponed,Hou
+375535242, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408465,6408442,6408780,6408821,6408876,6408934,6408944,6409027,6409035,6409053,,SP,Yu Darvish (6408534),Yu Darvish,6408534,8900,Sea@Tex 04:05PM ET,Tex
+375535243, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408793,6408820,6408859,6408907,6408949,6409033,6409028,6409058,,SP,Raisel Iglesias (6408507),Raisel Iglesias,6408507,8900,Phi@Cin 04:10PM ET,Cin
+375535244, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408778,6408818,6408871,6408872,6408942,6409023,6409027,6409005,,SP,Félix Hernández (6408531),Félix Hernández,6408531,8800,Sea@Tex 04:05PM ET,Sea
+375535245, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408465,6408515,6408795,6408824,6408865,6408911,6408951,6409060,6409059,6409070,,SP,Masahiro Tanaka (6408429),Masahiro Tanaka,6408429,8800,Postponed,NYY
+375535246, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408777,6408815,6408865,6408903,6408943,6409008,6409053,6409059,,SP,Corey Kluber (6408469),Corey Kluber,6408469,8600,Bos@Cle 04:10PM ET,Cle
+375535247, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408778,6408818,6408872,6408907,6408942,6409024,6409008,6409028,,SP,Anthony DeSclafani (6408490),Anthony DeSclafani,6408490,8600,Phi@Cin 04:10PM ET,Cin
+375535248, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408465,6408515,6408802,6408820,6408859,6408907,6408947,6409033,6409028,6409042,,SP,Carlos Carrasco (6408461),Carlos Carrasco,6408461,8500,Bos@Cle 04:10PM ET,Cle
+375535249, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408777,6408815,6408867,6408911,6408943,6409008,6409017,6409070,,SP,Danny Salazar (6408471),Danny Salazar,6408471,8500,Bos@Cle 04:10PM ET,Cle
+375535250, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408465,6408515,6408770,6408827,6408867,6408870,6408949,6409070,6409058,6409005,,SP,Cole Hamels (6408530),Cole Hamels,6408530,8400,Sea@Tex 04:05PM ET,Tex
+375535251, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408778,6408818,6408856,6408872,6408943,6409024,6409027,6409007,,SP,Johnny Cueto (6408512),Johnny Cueto,6408512,8400,SF@Mil 02:10PM ET,SF
+375535252, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408442,6408778,6408818,6408867,6408872,6408949,6409009,6409023,6409070,,SP,Aaron Nola (6408504),Aaron Nola,6408504,8300,Phi@Cin 04:10PM ET,Phi
+375535253, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408515,6408531,6408802,6408823,6408857,6408903,6408943,6409008,6409007,6409042,,SP,Lance McCullers (6408437),Lance McCullers,6408437,8300,Postponed,Hou
+375535254, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408465,6408515,6408778,6408818,6408863,6408872,6408947,6409024,6409023,6409042,,SP,Homer Bailey (6408486),Homer Bailey,6408486,8200,Phi@Cin 04:10PM ET,Cin
+375535255, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408465,6408442,6408795,6408822,6408876,6408934,6408951,6409053,6409045,6409059,,SP,Julio Teherán (6408445),Julio Teherán,6408445,8100,Was@Atl 04:10PM ET,Atl
+375535256, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408442,6408531,6408790,6408822,6408859,6408907,6408934,6409053,6409045,6409033,,SP,Joe Ross (6408456),Joe Ross,6408456,8000,Was@Atl 04:10PM ET,Was
+375535257, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408469,6408515,6408795,6408823,6408863,6408912,6408947,6409042,6409040,6409059,,SP,John Lamb (6408488),John Lamb,6408488,7900,Phi@Cin 04:10PM ET,Cin
+375542346, MLB Low Stakes GPP Shadow Contest [Slider],22709243,$2.70 ,6408465,6408442,6408790,6408822,6408853,6408876,6408934,6409053,6409033,6409005,,SP,Jerad Eickhoff (6408498),Jerad Eickhoff,6408498,7900,Phi@Cin 04:10PM ET,Phi
+375542916, MLB Mid Stakes GPP Shadow Contest [Hot Corner],22709246,$8.10 ,6408515,6408531,6408802,6408823,6408853,6408870,6408947,6409042,6409040,6409000,,SP,Clay Buchholz (6408462),Clay Buchholz,6408462,7800,Bos@Cle 04:10PM ET,Bos
+375549408,MLB Opening Day Employee Special,22637800,$5 ,6408465,6408515,6408780,6408813,6408855,6408901,6408946,6409004,6408997,6409027,,SP,Jeff Samardzija (6408514),Jeff Samardzija,6408514,7800,SF@Mil 02:10PM ET,SF
+375549456,MLB Opening Day Employee Special,22637800,$5 ,6408465,6408442,6408778,6408818,6408876,6408872,6408942,6409023,6409027,6409045,,SP,Michael Pineda (6408426),Michael Pineda,6408426,7800,Postponed,NYY
+375549457,MLB Opening Day Employee Special,22637800,$5 ,6408465,6408515,6408767,6408813,6408871,6408901,6408940,6409004,6409024,6409005,,SP,Robert Stephenson (6408502),Robert Stephenson,6408502,7800,Phi@Cin 04:10PM ET,Cin
+375549458,MLB Opening Day Employee Special,22637800,$5 ,6408465,6408515,6408802,6408813,6408855,6408901,6408940,6409004,6409024,6409044,,SP,Collin McHugh (6408427),Collin McHugh,6408427,7700,Postponed,Hou
+375549459,MLB Opening Day Employee Special,22637800,$5 ,6408469,6408442,6408777,6408822,6408857,6408934,6408943,6409008,6409007,6409045,,SP,Mike Fiers (6408431),Mike Fiers,6408431,7600,Postponed,Hou
+375549460,MLB Opening Day Employee Special,22637800,$5 ,6408465,6408515,6408767,6408813,6408855,6408901,6408951,6409004,6409024,6409060,,SP,Charlie Morton (6408484),Charlie Morton,6408484,7400,Phi@Cin 04:10PM ET,Phi
+375549461,MLB Opening Day Employee Special,22637800,$5 ,6408442,6408507,6408793,6408822,6408867,6408876,6408934,6409053,6409045,6409070,,SP,Bud Norris (6408443),Bud Norris,6408443,7400,Was@Atl 04:10PM ET,Atl
+375549462,MLB Opening Day Employee Special,22637800,$5 ,6408465,6408515,6408767,6408813,6408867,6408901,6408940,6409004,6409024,6409058,,SP,Jeremy Hellickson (6408487),Jeremy Hellickson,6408487,7300,Phi@Cin 04:10PM ET,Phi
+375559244,MLB Opening Day Employee Special,22637800,$5 ,6408465,6408531,6408790,6408823,6408876,6408934,6408947,6409053,6409045,6409042,,SP,Rick Porcello (6408467),Rick Porcello,6408467,7300,Bos@Cle 04:10PM ET,Bos
+375559245,MLB Opening Day Employee Special,22637800,$5 ,6408465,6408515,6408767,6408813,6408859,6408907,6408940,6409004,6408997,6409033,,RP,Tanner Roark (6408628),Tanner Roark,6408628,7300,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SP,Hisashi Iwakuma (6408545),Hisashi Iwakuma,6408545,7300,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,Luis Severino (6408436),Luis Severino,6408436,7300,Postponed,NYY
+,,,,,,,,,,,,,,,SP,Vince Velásquez (6408494),Vince Velásquez,6408494,7200,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SP,Eduardo Rodríguez (6408475),Eduardo Rodríguez,6408475,7200,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,SP,Derek Holland (6408533),Derek Holland,6408533,7000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,SP,Taijuan Walker (6408544),Taijuan Walker,6408544,7000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,CC Sabathia (6408420),CC Sabathia,6408420,6900,Postponed,NYY
+,,,,,,,,,,,,,,,SP,Nathan Eovaldi (6408428),Nathan Eovaldi,6408428,6900,Postponed,NYY
+,,,,,,,,,,,,,,,SP,Alfredo Simón (6408483),Alfredo Simón,6408483,6800,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,SP,Matt Wisler (6408458),Matt Wisler,6408458,6800,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SP,Jake Peavy (6408508),Jake Peavy,6408508,6700,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Ervin Santana (6408401),Ervin Santana,6408401,6700,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Kevin Gausman (6408573),Kevin Gausman,6408573,6700,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Trevor Bauer (6408477),Trevor Bauer,6408477,6700,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,SP,Bronson Arroyo (6408439),Bronson Arroyo,6408439,6600,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SP,Ubaldo Jiménez (6408404),Ubaldo Jiménez,6408404,6600,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Nathan Karns (6408532),Nathan Karns,6408532,6600,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,Josh Tomlin (6408464),Josh Tomlin,6408464,6600,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,SP,Wade Miley (6408538),Wade Miley,6408538,6600,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,Manny Bañuelos (6408448),Manny Bañuelos,6408448,6600,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SP,Jon Moscot (6408500),Jon Moscot,6408500,6600,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,SP,Adam Morgan (6408499),Adam Morgan,6408499,6500,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SP,Colby Lewis (6408528),Colby Lewis,6408528,6400,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,SP,Scott Feldman (6408422),Scott Feldman,6408422,6400,Postponed,Hou
+,,,,,,,,,,,,,,,SP,James Paxton (6408542),James Paxton,6408542,6400,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,Michael Lorenzen (6408495),Michael Lorenzen,6408495,6400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,RP,Brandon Finnegan (6408702),Brandon Finnegan,6408702,6400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,SP,Tyler Duffey (6408416),Tyler Duffey,6408416,6400,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Phil Hughes (6408405),Phil Hughes,6408405,6300,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Jhoulys Chacin (6408444),Jhoulys Chacin,6408444,6300,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SP,Williams Pérez (6408451),Williams Pérez,6408451,6300,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SP,Jimmy Nelson (6408522),Jimmy Nelson,6408522,6300,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SP,Matt Cain (6408510),Matt Cain,6408510,6200,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Martín Pérez (6408541),Martín Pérez,6408541,6200,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,SP,Kyle Gibson (6408412),Kyle Gibson,6408412,6200,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Mike Foltynewicz (6408453),Mike Foltynewicz,6408453,6200,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SP,Chris Tillman (6408408),Chris Tillman,6408408,6100,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Tommy Milone (6408411),Tommy Milone,6408411,6100,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Ricky Nolasco (6408403),Ricky Nolasco,6408403,6000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Yovani Gallardo (6408406),Yovani Gallardo,6408406,6000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Doug Fister (6408423),Doug Fister,6408423,6000,Postponed,Hou
+,,,,,,,,,,,,,,,SP,Miguel González (6408407),Miguel González,6408407,5900,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Danny Hultzen (6408540),Danny Hultzen,6408540,5900,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,Iván Nova (6408424),Iván Nova,6408424,5800,Postponed,NYY
+,,,,,,,,,,,,,,,SP,Taylor Jungmann (6408516),Taylor Jungmann,6408516,5800,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SP,Chase Anderson (6408518),Chase Anderson,6408518,5800,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SP,A.J. Griffin (6408543),A.J. Griffin,6408543,5800,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,SP,Tyrell Jenkins (6408452),Tyrell Jenkins,6408452,5800,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SP,Ryan Weber (6408447),Ryan Weber,6408447,5700,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SP,Brett Oberholtzer (6408489),Brett Oberholtzer,6408489,5600,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SP,Asher Wojciechowski (6408433),Asher Wojciechowski,6408433,5600,Postponed,Hou
+,,,,,,,,,,,,,,,RP,A.J. Cole (6408640),A.J. Cole,6408640,5600,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SP,TJ House (6408470),TJ House,6408470,5500,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,SP,Jeremy Guthrie (6408529),Jeremy Guthrie,6408529,5400,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,SP,Wily Peralta (6408513),Wily Peralta,6408513,5400,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Taylor Jordan (6408627),Taylor Jordan,6408627,5400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SP,Keyvius Sampson (6408492),Keyvius Sampson,6408492,5300,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,SP,Chi Chi González (6408548),Chi Chi González,6408548,5300,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,SP,Matt Garza (6408511),Matt Garza,6408511,5200,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SP,Chris Heston (6408517),Chris Heston,6408517,5200,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Cody Anderson (6408476),Cody Anderson,6408476,5200,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Dylan Bundy (6408578),Dylan Bundy,6408578,5200,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,1B/OF,Chris Davis (6408835),Chris Davis,6408835,5100,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Joe Kelly (6408472),Joe Kelly,6408472,5100,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,OF,Hunter Pence (6409044),Hunter Pence,6409044,5000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Casey Kelly (6408446),Casey Kelly,6408446,5000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Taylor Hill (6408638),Taylor Hill,6408638,5000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,3B,Manny Machado (6408897),Manny Machado,6408897,5000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Alec Asher (6408497),Alec Asher,6408497,5000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,3B,Miguel Sano (6408896),Miguel Sano,6408896,4900,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Domingo Germán (6408434),Domingo Germán,6408434,4900,Postponed,NYY
+,,,,,,,,,,,,,,,SP,Brad Peacock (6408425),Brad Peacock,6408425,4800,Postponed,Hou
+,,,,,,,,,,,,,,,SP,Tyler Wilson (6408414),Tyler Wilson,6408414,4800,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Nick Martínez (6408546),Nick Martínez,6408546,4800,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Nelson Cruz (6409060),Nelson Cruz,6409060,4700,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,Wandy Rodríguez (6408421),Wandy Rodríguez,6408421,4700,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Yusmeiro Petit (6408613),Yusmeiro Petit,6408613,4700,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,OF,Adam Jones (6408971),Adam Jones,6408971,4700,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Anthony Ranaudo (6408535),Anthony Ranaudo,6408535,4700,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,1B/C,Buster Posey (6408802),Buster Posey,6408802,4700,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Mike Montgomery (6408537),Mike Montgomery,6408537,4700,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,2B,Brian Dozier (6408847),Brian Dozier,6408847,4700,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Michael Feliz (6408599),Michael Feliz,6408599,4700,Postponed,Hou
+,,,,,,,,,,,,,,,SP,Henry Owens (6408478),Henry Owens,6408478,4700,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Tony Cingrani (6408700),Tony Cingrani,6408700,4700,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,OF,Mookie Betts (6409024),Mookie Betts,6409024,4700,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,1B,David Ortiz (6408814),David Ortiz,6408814,4600,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,1B,Joey Votto (6408821),Joey Votto,6408821,4600,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,OF,Denard Span (6409042),Denard Span,6409042,4600,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,1B,Brandon Belt (6408823),Brandon Belt,6408823,4600,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Josh Hader (6408526),Josh Hader,6408526,4600,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Shin-soo Choo (6409058),Shin-soo Choo,6409058,4500,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,1B,Prince Fielder (6408824),Prince Fielder,6408824,4500,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Ryan Braun (6409045),Ryan Braun,6409045,4500,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SP,Nick Tepesch (6408536),Nick Tepesch,6408536,4500,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,SP,Dan Straily (6408432),Dan Straily,6408432,4500,Postponed,Hou
+,,,,,,,,,,,,,,,OF,Bryce Harper (6409005),Bryce Harper,6409005,4500,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SP,Mike Wright (6408415),Mike Wright,6408415,4500,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Rookie Davis (6408503),Rookie Davis,6408503,4500,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,SP,Zach Davies (6408525),Zach Davies,6408525,4500,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SP,Roenis Elías (6408479),Roenis Elías,6408479,4500,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,3B,Matt Duffy (6408910),Matt Duffy,6408910,4500,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Nick Masset (6408608),Nick Masset,6408608,4400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Matt Belisle (6408610),Matt Belisle,6408610,4400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Juan Gutiérrez (6408615),Juan Gutiérrez,6408615,4400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Aaron Laffey (6408616),Aaron Laffey,6408616,4400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Ryan Mattheus (6408680),Ryan Mattheus,6408680,4400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,RP,Burke Badenhop (6408620),Burke Badenhop,6408620,4400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SP,Ross Detwiler (6408466),Ross Detwiler,6408466,4400,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Erik Davis (6408623),Erik Davis,6408623,4400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,J.C. Ramírez (6408688),J.C. Ramírez,6408688,4400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,RP,Pedro Villarreal (6408689),Pedro Villarreal,6408689,4400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,SP,Matt Magill (6408491),Matt Magill,6408491,4400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,RP,Matt Purke (6408632),Matt Purke,6408632,4400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,3B,Kyle Seager (6408912),Kyle Seager,6408912,4400,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,Josh Smith (6408496),Josh Smith,6408496,4400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,SP,Clayton Blackburn (6408524),Clayton Blackburn,6408524,4400,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Erick Fedde (6408457),Erick Fedde,6408457,4400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SP,Keury Mella (6408506),Keury Mella,6408506,4400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,SP,Reynaldo López (6408460),Reynaldo López,6408460,4400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,1B,Byung Ho Park (6408807),Byung Ho Park,6408807,4400,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Edward Mujica (6408679),Edward Mujica,6408679,4300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Ernesto Frieri (6408681),Ernesto Frieri,6408681,4300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,James Russell (6408683),James Russell,6408683,4300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Bobby LaFromboise (6408686),Bobby LaFromboise,6408686,4300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SS,Brandon Crawford (6408947),Brandon Crawford,6408947,4300,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Édgar Ibarra (6408691),Édgar Ibarra,6408691,4300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SP,David Buchanan (6408493),David Buchanan,6408493,4300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Yoervis Medina (6408694),Yoervis Medina,6408694,4300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Ken Roberts (6408697),Ken Roberts,6408697,4300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SP,Joe Musgrove (6408435),Joe Musgrove,6408435,4300,Postponed,Hou
+,,,,,,,,,,,,,,,1B,Joe Mauer (6408803),Joe Mauer,6408803,4200,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Dellin Betances (6408586),Dellin Betances,6408586,4200,Postponed,NYY
+,,,,,,,,,,,,,,,SP,Vance Worley (6408409),Vance Worley,6408409,4200,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Joe Wieland (6408539),Joe Wieland,6408539,4200,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,Trevor May (6408410),Trevor May,6408410,4200,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Jesse Biddle (6408454),Jesse Biddle,6408454,4200,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Cody Martin (6408747),Cody Martin,6408747,4200,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,2B,Joe Panik (6408863),Joe Panik,6408863,4200,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Amir Garrett (6408505),Amir Garrett,6408505,4200,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,3B,Adrián Béltre (6408911),Adrián Béltre,6408911,4100,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,2B,Robinson Canó (6408865),Robinson Canó,6408865,4100,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Neal Cotts (6408581),Neal Cotts,6408581,4100,Postponed,Hou
+,,,,,,,,,,,,,,,OF,Hanley Ramírez (6409009),Hanley Ramírez,6409009,4100,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,SP,Matt Harrison (6408485),Matt Harrison,6408485,4100,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Jay Bruce (6409027),Jay Bruce,6409027,4100,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,OF,Michael Brantley (6409012),Michael Brantley,6409012,4100,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Aaron Barrett (6408630),Aaron Barrett,6408630,4100,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Alex Meyer (6408566),Alex Meyer,6408566,4100,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Caleb Cotham (6408692),Caleb Cotham,6408692,4100,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,RP,Vidal Nuño (6408742),Vidal Nuño,6408742,4100,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,2B,Jonathan Schoop (6408848),Jonathan Schoop,6408848,4100,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,OF,George Springer (6408990),George Springer,6408990,4100,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Jake Buchanan (6408596),Jake Buchanan,6408596,4100,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Michael Mariot (6408696),Michael Mariot,6408696,4100,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Blake Treinen (6408642),Blake Treinen,6408642,4100,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SS,Carlos Correa (6408939),Carlos Correa,6408939,4100,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Francis Martes (6408605),Francis Martes,6408605,4100,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Jason Grilli (6408606),Jason Grilli,6408606,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Joaquín Benoit (6408726),Joaquín Benoit,6408726,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Oliver Pérez (6408607),Oliver Pérez,6408607,4000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Javier López (6408704),Javier López,6408704,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Chris Capuano (6408509),Chris Capuano,6408509,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Blaine Boyer (6408705),Blaine Boyer,6408705,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Joel Peralta (6408727),Joel Peralta,6408727,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Santiago Casilla (6408706),Santiago Casilla,6408706,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Ronald Belisario (6408650),Ronald Belisario,6408650,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Jim Johnson (6408609),Jim Johnson,6408609,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Kevin Jepsen (6408551),Kevin Jepsen,6408551,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Pat Neshek (6408582),Pat Neshek,6408582,4000,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Jumbo Diaz (6408678),Jumbo Diaz,6408678,4000,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,RP,Tom Wilhelmsen (6408728),Tom Wilhelmsen,6408728,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Jonathan Papelbon (6408611),Jonathan Papelbon,6408611,4000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Tom Gorzelanny (6408651),Tom Gorzelanny,6408651,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Phil Coke (6408612),Phil Coke,6408612,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Júnior Guerra (6408707),Júnior Guerra,6408707,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SP,Kyle Kendrick (6408440),Kyle Kendrick,6408440,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Alexi Ogando (6408614),Alexi Ogando,6408614,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Carlos Torres (6408617),Carlos Torres,6408617,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Anthony Swarzak (6408583),Anthony Swarzak,6408583,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Brandon Kintzler (6408552),Brandon Kintzler,6408552,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,3B,Trevor Plouffe (6408895),Trevor Plouffe,6408895,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Glen Perkins (6408553),Glen Perkins,6408553,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Franklin Morales (6408708),Franklin Morales,6408708,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Carlos Gómez (6408981),Carlos Gómez,6408981,4000,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Jonny Venters (6408618),Jonny Venters,6408618,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Samuel Deduno (6408554),Samuel Deduno,6408554,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Tony Sipp (6408584),Tony Sipp,6408584,4000,Postponed,Hou
+,,,,,,,,,,,,,,,1B/OF,Mark Trumbo (6408834),Mark Trumbo,6408834,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,César Ramos (6408729),César Ramos,6408729,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Chris Volstad (6408619),Chris Volstad,6408619,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Craig Stammen (6408652),Craig Stammen,6408652,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Sergio Romo (6408709),Sergio Romo,6408709,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Chaz Roe (6408555),Chaz Roe,6408555,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Michael Broadway (6408710),Michael Broadway,6408710,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Donnie Veal (6408730),Donnie Veal,6408730,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Todd Redmond (6408556),Todd Redmond,6408556,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,David Hernández (6408682),David Hernández,6408682,4000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Joe Thatcher (6408653),Joe Thatcher,6408653,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Anthony Varvaro (6408654),Anthony Varvaro,6408654,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,OF,Nori Aoki (6409063),Nori Aoki,6409063,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Andrew Miller (6408585),Andrew Miller,6408585,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Jeremy Jeffress (6408711),Jeremy Jeffress,6408711,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Darren O'Day (6408557),Darren O'Day,6408557,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Joba Chamberlain (6408655),Joba Chamberlain,6408655,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,SP,Steven Wright (6408463),Steven Wright,6408463,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Blake Wood (6408684),Blake Wood,6408684,4000,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,RP,Zach Britton (6408558),Zach Britton,6408558,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Zach McAllister (6408656),Zach McAllister,6408656,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Nate Adcock (6408559),Nate Adcock,6408559,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,George Kontos (6408712),George Kontos,6408712,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Will Harris (6408587),Will Harris,6408587,4000,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Tony Barnette (6408731),Tony Barnette,6408731,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,David Carpenter (6408621),David Carpenter,6408621,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Jeff Manship (6408657),Jeff Manship,6408657,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Casey Fien (6408560),Casey Fien,6408560,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Sam Dyson (6408732),Sam Dyson,6408732,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Luke Gregerson (6408588),Luke Gregerson,6408588,4000,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Álex Torres (6408622),Álex Torres,6408622,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Jeanmar Gómez (6408685),Jeanmar Gómez,6408685,4000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Dan Otero (6408658),Dan Otero,6408658,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Justin De Fratus (6408733),Justin De Fratus,6408733,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Shawn Kelley (6408624),Shawn Kelley,6408624,4000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Tommy Hunter (6408659),Tommy Hunter,6408659,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Steve Cishek (6408734),Steve Cishek,6408734,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Josh Fields (6408589),Josh Fields,6408589,4000,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Chris Withrow (6408625),Chris Withrow,6408625,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Ryan Pressly (6408561),Ryan Pressly,6408561,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,1B,Freddie Freeman (6408813),Freddie Freeman,6408813,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SP,Brandon Workman (6408468),Brandon Workman,6408468,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,T.J. McFarland (6408562),T.J. McFarland,6408562,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Cory Gearrin (6408713),Cory Gearrin,6408713,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Charlie Furbush (6408735),Charlie Furbush,6408735,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Michael Blazek (6408714),Michael Blazek,6408714,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Sammy Solís (6408626),Sammy Solís,6408626,4000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Hunter Strickland (6408715),Hunter Strickland,6408715,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Sam Freeman (6408736),Sam Freeman,6408736,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Tommy Layne (6408660),Tommy Layne,6408660,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Evan Scribner (6408737),Evan Scribner,6408737,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Jake Diekman (6408738),Jake Diekman,6408738,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Luis García (6408687),Luis García,6408687,4000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Fernando Abad (6408563),Fernando Abad,6408563,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Brian Matusz (6408564),Brian Matusz,6408564,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Tanner Scheppers (6408739),Tanner Scheppers,6408739,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Robbie Ross Jr. (6408661),Robbie Ross Jr.,6408661,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Craig Kimbrel (6408662),Craig Kimbrel,6408662,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,2B,Jason Kipnis (6408857),Jason Kipnis,6408857,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Ryan Cook (6408740),Ryan Cook,6408740,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Will Smith (6408716),Will Smith,6408716,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Rob Wooten (6408629),Rob Wooten,6408629,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,J.J. Hoover (6408690),J.J. Hoover,6408690,4000,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,RP,Brad Brach (6408565),Brad Brach,6408565,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,David Rollins (6408741),David Rollins,6408741,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Austin Adams (6408663),Austin Adams,6408663,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Michael Tonkin (6408567),Michael Tonkin,6408567,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,2B,José Altuve (6408849),José Altuve,6408849,4000,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Bryan Shaw (6408664),Bryan Shaw,6408664,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Arodys Vizcaíno (6408631),Arodys Vizcaíno,6408631,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,César Cabral (6408568),César Cabral,6408568,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Oliver Drake (6408569),Oliver Drake,6408569,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Koji Uehara (6408665),Koji Uehara,6408665,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Junichi Tazawa (6408666),Junichi Tazawa,6408666,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,1B/OF,Hyun Soo Kim (6408836),Hyun Soo Kim,6408836,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Mychal Givens (6408570),Mychal Givens,6408570,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,David Holmberg (6408450),David Holmberg,6408450,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Chris Dwyer (6408571),Chris Dwyer,6408571,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Ian Krol (6408633),Ian Krol,6408633,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Bryan Mitchell (6408590),Bryan Mitchell,6408590,4000,Postponed,NYY
+,,,,,,,,,,,,,,,SP,Tyler Cravy (6408519),Tyler Cravy,6408519,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Giovanni Soto (6408667),Giovanni Soto,6408667,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Mario Hollands (6408693),Mario Hollands,6408693,4000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SP,Brian Johnson (6408473),Brian Johnson,6408473,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Edwin Escobar (6408668),Edwin Escobar,6408668,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,SP,Taylor Rogers (6408413),Taylor Rogers,6408413,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,James Pazos (6408591),James Pazos,6408591,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Ken Giles (6408592),Ken Giles,6408592,4000,Postponed,Hou
+,,,,,,,,,,,,,,,SP,Ariel Peña (6408520),Ariel Peña,6408520,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SP,Sean Nolin (6408521),Sean Nolin,6408521,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Paco Rodríguez (6408634),Paco Rodríguez,6408634,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Kevin Chapman (6408593),Kevin Chapman,6408593,4000,Postponed,Hou
+,,,,,,,,,,,,,,,RP,Román Méndez (6408669),Román Méndez,6408669,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,José Ramírez (6408635),José Ramírez,6408635,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Mayckol Guaipe (6408743),Mayckol Guaipe,6408743,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Yhónathan Barrios (6408717),Yhónathan Barrios,6408717,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Felipe Rivero (6408636),Felipe Rivero,6408636,4000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Kirby Yates (6408594),Kirby Yates,6408594,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Carlos Contreras (6408695),Carlos Contreras,6408695,4000,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,RP,Rafael Martín (6408637),Rafael Martín,6408637,4000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Aroldis Chapman (6408595),Aroldis Chapman,6408595,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Matt Barnes (6408670),Matt Barnes,6408670,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,David Goforth (6408718),David Goforth,6408718,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Tyler Thornburg (6408719),Tyler Thornburg,6408719,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Shawn Tolleson (6408744),Shawn Tolleson,6408744,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Matt Grace (6408639),Matt Grace,6408639,4000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SP,Toru Murata (6408474),Toru Murata,6408474,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Luke Jackson (6408745),Luke Jackson,6408745,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Donn Roach (6408746),Donn Roach,6408746,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,OF,Eddie Rosario (6408974),Eddie Rosario,6408974,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Jason Hursh (6408455),Jason Hursh,6408455,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Logan Darnell (6408572),Logan Darnell,6408572,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Josh Osich (6408720),Josh Osich,6408720,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Heath Hembree (6408671),Heath Hembree,6408671,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Jon Keller (6408574),Jon Keller,6408574,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Chasen Shreve (6408597),Chasen Shreve,6408597,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Danny Burawa (6408641),Danny Burawa,6408641,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Ryan O'Rourke (6408575),Ryan O'Rourke,6408575,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Cody Allen (6408672),Cody Allen,6408672,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Jason García (6408576),Jason García,6408576,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Álex Cláudio (6408748),Álex Cláudio,6408748,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Brandon Cunniff (6408643),Brandon Cunniff,6408643,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Steven Okert (6408721),Steven Okert,6408721,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Dan Winkler (6408644),Dan Winkler,6408644,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Matt Tracy (6408598),Matt Tracy,6408598,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Héctor Neris (6408698),Héctor Neris,6408698,4000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Abel De los Santos (6408645),Abel De los Santos,6408645,4000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,RP,Tony Zych (6408749),Tony Zych,6408749,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Andrew McKirahan (6408646),Andrew McKirahan,6408646,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Colton Murray (6408699),Colton Murray,6408699,4000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,J.R. Graham (6408577),J.R. Graham,6408577,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Severino Gonzalez (6408501),Severino Gonzalez,6408501,4000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Adalberto Mejía (6408722),Adalberto Mejía,6408722,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SP,Kyle Crick (6408523),Kyle Crick,6408523,4000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,RP,Adrian Houser (6408723),Adrian Houser,6408723,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Jorge López (6408724),Jorge López,6408724,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Noé Ramírez (6408673),Noé Ramírez,6408673,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Carson Smith (6408674),Carson Smith,6408674,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Branden Pinder (6408600),Branden Pinder,6408600,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Jacob Lindgren (6408601),Jacob Lindgren,6408601,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Elvis Araujo (6408701),Elvis Araujo,6408701,4000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,RP,Shawn Armstrong (6408675),Shawn Armstrong,6408675,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Andrew Faulkner (6408750),Andrew Faulkner,6408750,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Nick Goody (6408602),Nick Goody,6408602,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Phil Klein (6408751),Phil Klein,6408751,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,Michael Roth (6408752),Michael Roth,6408752,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,RP,John Cornely (6408676),John Cornely,6408676,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Jonathan Aro (6408753),Jonathan Aro,6408753,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Keone Kela (6408754),Keone Kela,6408754,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,SP,Chris Ellis (6408459),Chris Ellis,6408459,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,J.T. Chargois (6408579),J.T. Chargois,6408579,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,RP,Trevor Gott (6408647),Trevor Gott,6408647,4000,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SP,Edwin Díaz (6408547),Edwin Díaz,6408547,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,SP,Ty Buttrey (6408480),Ty Buttrey,6408480,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,RP,Tyler Olson (6408603),Tyler Olson,6408603,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Shae Simmons (6408648),Shae Simmons,6408648,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,RP,Kyle Crockett (6408677),Kyle Crockett,6408677,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,RP,Nick Rumbelow (6408604),Nick Rumbelow,6408604,4000,Postponed,NYY
+,,,,,,,,,,,,,,,SP,Odrisamer Despaigne (6408417),Odrisamer Despaigne,6408417,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SP,Trey Ball (6408481),Trey Ball,6408481,4000,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,SP,Rob Kaminsky (6408482),Rob Kaminsky,6408482,4000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,SP,Ian Clarkin (6408438),Ian Clarkin,6408438,4000,Postponed,NYY
+,,,,,,,,,,,,,,,RP,Corey Knebel (6408725),Corey Knebel,6408725,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SP,Stephen Gonsalves (6408418),Stephen Gonsalves,6408418,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Taylor Williams (6408527),Taylor Williams,6408527,4000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,RP,Matt Marksberry (6408649),Matt Marksberry,6408649,4000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SP,Ryan Yarbrough (6408549),Ryan Yarbrough,6408549,4000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,RP,Dalier Hinojosa (6408703),Dalier Hinojosa,6408703,4000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SP,David Hess (6408419),David Hess,6408419,4000,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,RP,Tyler Jay (6408580),Tyler Jay,6408580,4000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,SP,Dillon Tate (6408550),Dillon Tate,6408550,4000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Ángel Pagán (6409040),Ángel Pagán,6409040,3900,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,2B,Dustin Pedroia (6408856),Dustin Pedroia,6408856,3900,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,1B,Carlos Santana (6408816),Carlos Santana,6408816,3900,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,C,Matt Wieters (6408757),Matt Wieters,6408757,3900,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,1B,Mitch Moreland (6408827),Mitch Moreland,6408827,3900,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Delino DeShields (6409070),Delino DeShields,6409070,3900,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Byron Buxton (6408976),Byron Buxton,6408976,3900,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,2B,Brandon Phillips (6408858),Brandon Phillips,6408858,3800,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,OF,Gregor Blanco (6409041),Gregor Blanco,6409041,3800,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SS,Ian Desmond (6408949),Ian Desmond,6408949,3800,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,3B,Pablo Sandoval (6408904),Pablo Sandoval,6408904,3800,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,OF,Jacoby Ellsbury (6408984),Jacoby Ellsbury,6408984,3800,Postponed,NYY
+,,,,,,,,,,,,,,,OF,Billy Hamilton (6409030),Billy Hamilton,6409030,3800,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,OF,Evan Gattis (6408992),Evan Gattis,6408992,3800,Postponed,Hou
+,,,,,,,,,,,,,,,SS,Xander Bogaerts (6408942),Xander Bogaerts,6408942,3800,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,SS,Francisco Lindor (6408943),Francisco Lindor,6408943,3800,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,2B,Rougned Odor (6408867),Rougned Odor,6408867,3800,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,1B/3B,Álex Rodríguez (6408829),Álex Rodríguez,6408829,3700,Postponed,NYY
+,,,,,,,,,,,,,,,1B,Ryan Howard (6408820),Ryan Howard,6408820,3700,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SS,Elvis Andrus (6408950),Elvis Andrus,6408950,3700,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,2B/3B,Anthony Rendón (6408871),Anthony Rendón,6408871,3700,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,OF,Domingo Santana (6409053),Domingo Santana,6409053,3700,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,3B,Maikel Franco (6408907),Maikel Franco,6408907,3700,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,1B,Mark Teixeira (6408808),Mark Teixeira,6408808,3600,Postponed,NYY
+,,,,,,,,,,,,,,,1B,Mike Napoli (6408815),Mike Napoli,6408815,3600,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,SS,J.J. Hardy (6408935),J.J. Hardy,6408935,3600,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,OF,Brett Gardner (6408983),Brett Gardner,6408983,3600,Postponed,NYY
+,,,,,,,,,,,,,,,C,Jonathan Lucroy (6408790),Jonathan Lucroy,6408790,3600,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Ben Revere (6409000),Ben Revere,6409000,3600,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,1B,Pedro Álvarez (6408804),Pedro Álvarez,6408804,3600,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,OF,Aaron Altherr (6409031),Aaron Altherr,6409031,3600,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Ender Inciarte (6409004),Ender Inciarte,6409004,3600,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,SS,Eugenio Suárez (6408946),Eugenio Suárez,6408946,3600,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,OF,Jarrett Parker (6409054),Jarrett Parker,6409054,3600,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,SS,Ketel Marte (6408951),Ketel Marte,6408951,3600,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,OF,Mac Williamson (6409056),Mac Williamson,6409056,3600,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,OF,Jayson Werth (6408994),Jayson Werth,6408994,3500,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,C,Brian McCann (6408762),Brian McCann,6408762,3500,Postponed,NYY
+,,,,,,,,,,,,,,,OF,Nick Markakis (6408997),Nick Markakis,6408997,3500,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,1B,Adam Lind (6408825),Adam Lind,6408825,3500,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,1B,Chris Carter (6408822),Chris Carter,6408822,3500,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,3B,Chase Headley (6408898),Chase Headley,6408898,3500,Postponed,NYY
+,,,,,,,,,,,,,,,2B/SS,Ehire Adrianza (6408890),Ehire Adrianza,6408890,3500,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,OF,Oswaldo Arcia (6408973),Oswaldo Arcia,6408973,3500,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,C,Blake Swihart (6408778),Blake Swihart,6408778,3500,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,2B,Kelby Tomlinson (6408864),Kelby Tomlinson,6408864,3500,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,3B,Juan Uribe (6408903),Juan Uribe,6408903,3400,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,OF,Marlon Byrd (6409007),Marlon Byrd,6409007,3400,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,1B/3B,Luis Valbuena (6408830),Luis Valbuena,6408830,3400,Postponed,Hou
+,,,,,,,,,,,,,,,1B,Ryan Zimmerman (6408812),Ryan Zimmerman,6408812,3400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,3B/SS,Eduardo Núñez (6408932),Eduardo Núñez,6408932,3400,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,2B/3B,Daniel Murphy (6408870),Daniel Murphy,6408870,3400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,OF,Keon Broxton (6409050),Keon Broxton,6409050,3400,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF/SS,Eduardo Escobar (6408970),Eduardo Escobar,6408970,3400,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,1B,Jon Singleton (6408810),Jon Singleton,6408810,3400,Postponed,Hou
+,,,,,,,,,,,,,,,C,Yan Gomes (6408777),Yan Gomes,6408777,3400,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,OF,Rymer Liriano (6409051),Rymer Liriano,6409051,3400,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Odubel Herrera (6409033),Odubel Herrera,6409033,3400,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Jackie Bradley Jr. (6409023),Jackie Bradley Jr.,6409023,3400,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,1B/3B,Matt Duffy (6408831),Matt Duffy,6408831,3400,Postponed,Hou
+,,,,,,,,,,,,,,,OF,Max Kepler (6408975),Max Kepler,6408975,3400,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,OF,Scott Schebler (6409037),Scott Schebler,6409037,3400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,OF,Rusney Castillo (6409026),Rusney Castillo,6409026,3400,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,OF,Carlos Beltrán (6408979),Carlos Beltrán,6408979,3300,Postponed,NYY
+,,,,,,,,,,,,,,,SS,Erick Aybar (6408940),Erick Aybar,6408940,3300,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,C,Chris Iannetta (6408795),Chris Iannetta,6408795,3300,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,2B,Jimmy Paredes (6408845),Jimmy Paredes,6408845,3300,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,SS,Freddy Galvis (6408945),Freddy Galvis,6408945,3300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Aaron Hicks (6408985),Aaron Hicks,6408985,3300,Postponed,NYY
+,,,,,,,,,,,,,,,3B/OF,Joey Gallo (6408931),Joey Gallo,6408931,3300,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,C,Robinson Chirinos (6408793),Robinson Chirinos,6408793,3200,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Rajai Davis (6409008),Rajai Davis,6409008,3200,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,OF,Seth Smith (6409061),Seth Smith,6409061,3200,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,OF,Colby Rasmus (6408982),Colby Rasmus,6408982,3200,Postponed,Hou
+,,,,,,,,,,,,,,,C,Devin Mesoraco (6408780),Devin Mesoraco,6408780,3200,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,1B,Ike Davis (6408828),Ike Davis,6408828,3200,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,C,Andrew Susac (6408791),Andrew Susac,6408791,3200,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,3B/SS,Jonathan Villar (6408934),Jonathan Villar,6408934,3200,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Tyler Goeddel (6409038),Tyler Goeddel,6409038,3200,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Mallex Smith (6409006),Mallex Smith,6409006,3200,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,OF,Henry Urrutia (6408977),Henry Urrutia,6408977,3200,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,OF,Dariel Álvarez (6408978),Dariel Álvarez,6408978,3200,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,C,A.J. Pierzynski (6408767),A.J. Pierzynski,6408767,3100,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,OF,Josh Hamilton (6409057),Josh Hamilton,6409057,3100,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,1B/OF,Kyle Blanks (6408843),Kyle Blanks,6408843,3100,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,OF,Nolan Reimold (6408972),Nolan Reimold,6408972,3100,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,OF,Peter Bourjos (6409028),Peter Bourjos,6409028,3100,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,C,Wilson Ramos (6408770),Wilson Ramos,6408770,3100,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SS,Zack Cozart (6408944),Zack Cozart,6408944,3100,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,C,Jason Castro (6408764),Jason Castro,6408764,3100,Postponed,Hou
+,,,,,,,,,,,,,,,2B,Ryan Flaherty (6408846),Ryan Flaherty,6408846,3100,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,C,Caleb Joseph (6408759),Caleb Joseph,6408759,3100,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,2B/SS,Starlin Castro (6408884),Starlin Castro,6408884,3100,Postponed,NYY
+,,,,,,,,,,,,,,,2B,César Hernández (6408859),César Hernández,6408859,3100,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,1B,Christian Walker (6408805),Christian Walker,6408805,3100,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,OF,Adam Duvall (6409035),Adam Duvall,6409035,3100,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,1B,Travis Shaw (6408818),Travis Shaw,6408818,3100,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,2B,Jace Peterson (6408855),Jace Peterson,6408855,3100,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,3B,Héctor Olivera (6408902),Héctor Olivera,6408902,3100,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,2B,Emilio Bonifacio (6408851),Emilio Bonifacio,6408851,3000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,OF,Justin Ruggiano (6409062),Justin Ruggiano,6409062,3000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,C,Kurt Suzuki (6408755),Kurt Suzuki,6408755,3000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,3B/OF,Lonnie Chisenhall (6408928),Lonnie Chisenhall,6408928,3000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,C,Roberto Pérez (6408775),Roberto Pérez,6408775,3000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,OF,Kirk Nieuwenhuis (6409049),Kirk Nieuwenhuis,6409049,3000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,SS,Didi Gregorius (6408938),Didi Gregorius,6408938,3000,Postponed,NYY
+,,,,,,,,,,,,,,,OF,Leonys Martín (6409067),Leonys Martín,6409067,3000,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,C,John Ryan Murphy (6408760),John Ryan Murphy,6408760,3000,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,2B,Scooter Gennett (6408862),Scooter Gennett,6408862,3000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Tyler Naquin (6409022),Tyler Naquin,6409022,3000,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,2B/SS,Jurickson Profar (6408893),Jurickson Profar,6408893,3000,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Roman Quinn (6409039),Roman Quinn,6409039,3000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,C,Trevor Brown (6408792),Trevor Brown,6408792,3000,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,2B,Marco Scutaro (6408861),Marco Scutaro,6408861,2900,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,2B/OF,Kelly Johnson (6408879),Kelly Johnson,6408879,2900,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,OF,Chris Young (6409010),Chris Young,6409010,2900,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,2B/3B,Aaron Hill (6408876),Aaron Hill,6408876,2900,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,C,Martín Maldonado (6408789),Martín Maldonado,6408789,2900,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Drew Stubbs (6409064),Drew Stubbs,6409064,2900,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Bryce Brentz (6409018),Bryce Brentz,6409018,2900,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,OF,Joey Butler (6409021),Joey Butler,6409021,2900,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,C,Christian Vázquez (6408776),Christian Vázquez,6408776,2900,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,OF,Yorman Rodríguez (6409032),Yorman Rodríguez,6409032,2900,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,SS,Danny Santana (6408936),Danny Santana,6408936,2900,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,1B,Kennys Vargas (6408806),Kennys Vargas,6408806,2900,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,1B,Jesús Aguilar (6408817),Jesús Aguilar,6408817,2900,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,3B/OF,Cody Asche (6408930),Cody Asche,6408930,2900,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,SS,Jorge Polanco (6408937),Jorge Polanco,6408937,2900,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,2B,José Peraza (6408860),José Peraza,6408860,2900,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,OF,Boog Powell (6409072),Boog Powell,6409072,2900,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,OF,Nomar Mazara (6409073),Nomar Mazara,6409073,2900,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Franklin Gutiérrez (6409059),Franklin Gutiérrez,6409059,2800,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,C,Carlos Ruiz (6408779),Carlos Ruiz,6408779,2800,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,C,Carlos Corporán (6408763),Carlos Corporán,6408763,2800,Postponed,NYY
+,,,,,,,,,,,,,,,3B/OF,Iván De Jesús Jr. (6408929),Iván De Jesús Jr.,6408929,2800,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,C,Francisco Peña (6408756),Francisco Peña,6408756,2800,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,1B/3B,Andy Wilkins (6408832),Andy Wilkins,6408832,2800,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Michael A. Taylor (6409001),Michael A. Taylor,6409001,2800,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,2B/3B,Brock Holt (6408872),Brock Holt,6408872,2800,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,SS,Erik González (6408941),Erik González,6408941,2800,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,3B,Garin Cecchini (6408909),Garin Cecchini,6408909,2800,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Preston Tucker (6408993),Preston Tucker,6408993,2800,Postponed,Hou
+,,,,,,,,,,,,,,,2B/SS,José Ramírez (6408887),José Ramírez,6408887,2800,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,2B/SS,Trea Turner (6408886),Trea Turner,6408886,2800,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,SS,Chris Taylor (6408952),Chris Taylor,6408952,2800,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,1B/OF,Nick Swisher (6408838),Nick Swisher,6408838,2700,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,OF,Michael Bourn (6408998),Michael Bourn,6408998,2700,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,OF,Shawn O'Malley (6409065),Shawn O'Malley,6409065,2700,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,1B,Jesús Montero (6408826),Jesús Montero,6408826,2700,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,OF,Abraham Almonte (6409019),Abraham Almonte,6409019,2700,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,C,Kyle Skipworth (6408783),Kyle Skipworth,6408783,2700,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,2B,Danny Espinosa (6408853),Danny Espinosa,6408853,2700,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,OF,James Jones (6409068),James Jones,6409068,2700,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Matt den Dekker (6409002),Matt den Dekker,6409002,2700,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,OF,Brian Goodwin (6409003),Brian Goodwin,6409003,2700,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,1B/OF,Darin Ruf (6408842),Darin Ruf,6408842,2700,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Tyler Holt (6409034),Tyler Holt,6409034,2700,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,2B/3B,Zach Walters (6408873),Zach Walters,6408873,2700,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,2B/SS,Yadiel Rivera (6408891),Yadiel Rivera,6408891,2700,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,C,Gary Sánchez (6408766),Gary Sánchez,6408766,2700,Postponed,NYY
+,,,,,,,,,,,,,,,SS,Orlando Arcia (6408948),Orlando Arcia,6408948,2700,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,James Ramsey (6409025),James Ramsey,6409025,2700,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,3B,Adonis Garcia (6408901),Adonis Garcia,6408901,2700,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,3B,Patrick Kivlehan (6408913),Patrick Kivlehan,6408913,2700,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,David Murphy (6409011),David Murphy,6409011,2600,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,OF,Will Venable (6409013),Will Venable,6409013,2600,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,2B/SS,Steve Tolleson (6408881),Steve Tolleson,6408881,2600,Min@Bal 03:05PM ET,Bal
+,,,,,,,,,,,,,,,1B/OF,Chris Parmelee (6408837),Chris Parmelee,6408837,2600,Postponed,NYY
+,,,,,,,,,,,,,,,C,Michael McKenry (6408796),Michael McKenry,6408796,2600,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,C,Steve Clevenger (6408797),Steve Clevenger,6408797,2600,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,OF,Alex Presley (6409046),Alex Presley,6409046,2600,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,1B/OF,Clint Robinson (6408839),Clint Robinson,6408839,2600,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,2B/SS,Pete Kozma (6408883),Pete Kozma,6408883,2600,Postponed,NYY
+,,,,,,,,,,,,,,,3B,Will Middlebrooks (6408908),Will Middlebrooks,6408908,2600,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Collin Cowgill (6409017),Collin Cowgill,6409017,2600,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,2B/OF,Dustin Ackley (6408878),Dustin Ackley,6408878,2600,Postponed,NYY
+,,,,,,,,,,,,,,,OF,Jake Marisnick (6408988),Jake Marisnick,6408988,2600,Postponed,Hou
+,,,,,,,,,,,,,,,3B,Deven Marrero (6408905),Deven Marrero,6408905,2600,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,2B/OF,Darnell Sweeney (6408880),Darnell Sweeney,6408880,2600,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,3B,Giovanny Urshela (6408906),Giovanny Urshela,6408906,2600,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,C,John Hicks (6408761),John Hicks,6408761,2600,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,OF,Mason Williams (6408991),Mason Williams,6408991,2600,Postponed,NYY
+,,,,,,,,,,,,,,,2B,Rob Refsnyder (6408850),Rob Refsnyder,6408850,2600,Postponed,NYY
+,,,,,,,,,,,,,,,C,Miguel Olivo (6408788),Miguel Olivo,6408788,2500,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,2B/3B,Andrés Blanco (6408874),Andrés Blanco,6408874,2500,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,C,Ryan Hanigan (6408774),Ryan Hanigan,6408774,2500,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,C,Chris Giménez (6408794),Chris Giménez,6408794,2500,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,1B/OF,Allen Craig (6408841),Allen Craig,6408841,2500,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,C,Juan Centeno (6408758),Juan Centeno,6408758,2500,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,OF,David Lough (6409029),David Lough,6409029,2500,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Slade Heathcott (6408987),Slade Heathcott,6408987,2500,Postponed,NYY
+,,,,,,,,,,,,,,,C,Mike Zunino (6408800),Mike Zunino,6408800,2500,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,2B/3B,Hernán Pérez (6408877),Hernán Pérez,6408877,2500,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,2B/SS,Wilfredo Tovar (6408882),Wilfredo Tovar,6408882,2500,Min@Bal 03:05PM ET,Min
+,,,,,,,,,,,,,,,OF,Stefen Romero (6409069),Stefen Romero,6409069,2500,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,C,Cameron Rupp (6408786),Cameron Rupp,6408786,2500,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,2B,Hanser Alberto (6408866),Hanser Alberto,6408866,2500,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,C,Jorge Alfaro (6408787),Jorge Alfaro,6408787,2500,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Ryan Rua (6409071),Ryan Rua,6409071,2500,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,OF,Eric Young Jr. (6409043),Eric Young Jr.,6409043,2400,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,2B,Stephen Drew (6408852),Stephen Drew,6408852,2400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,OF,Michael Martínez (6409014),Michael Martínez,6409014,2400,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,C,Tyler Flowers (6408769),Tyler Flowers,6408769,2400,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,C,J.P. Arencibia (6408781),J.P. Arencibia,6408781,2400,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,C,Jordan Pacheco (6408782),Jordan Pacheco,6408782,2400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,1B,Austin Romine (6408809),Austin Romine,6408809,2400,Postponed,NYY
+,,,,,,,,,,,,,,,3B,Gordon Beckham (6408900),Gordon Beckham,6408900,2400,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,C,Tucker Barnhart (6408784),Tucker Barnhart,6408784,2400,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,2B/SS,Daniel Castro (6408885),Daniel Castro,6408885,2400,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,2B,Wilmer Difo (6408854),Wilmer Difo,6408854,2400,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,2B/SS,Taylor Featherston (6408889),Taylor Featherston,6408889,2400,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Reed Johnson (6408995),Reed Johnson,6408995,2300,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,C,José Lobatón (6408768),José Lobatón,6408768,2300,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,2B/SS,Emmanuel Burriss (6408888),Emmanuel Burriss,6408888,2300,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,OF,Shane Robinson (6409016),Shane Robinson,6409016,2300,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,OF,Chris Heisey (6408999),Chris Heisey,6408999,2300,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,3B/SS,Marwin González (6408933),Marwin González,6408933,2300,Postponed,Hou
+,,,,,,,,,,,,,,,OF,Robbie Grossman (6409020),Robbie Grossman,6409020,2300,Bos@Cle 04:10PM ET,Cle
+,,,,,,,,,,,,,,,OF,Daniel Robertson (6409066),Daniel Robertson,6409066,2300,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,1B/OF,Tyler Moore (6408840),Tyler Moore,6408840,2300,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,C,Steven Baron (6408799),Steven Baron,6408799,2300,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,2B/3B,Ronald Torreyes (6408868),Ronald Torreyes,6408868,2300,Postponed,NYY
+,,,,,,,,,,,,,,,C,Rob Brantly (6408801),Rob Brantly,6408801,2300,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,OF,Michael Reed (6409055),Michael Reed,6409055,2300,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,OF,Jeff Francoeur (6408996),Jeff Francoeur,6408996,2200,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,2B/3B,Brendan Ryan (6408869),Brendan Ryan,6408869,2200,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,OF,Brennan Boesch (6409015),Brennan Boesch,6409015,2200,Bos@Cle 04:10PM ET,Bos
+,,,,,,,,,,,,,,,OF,Gorkys Hernández (6409047),Gorkys Hernández,6409047,2200,SF@Mil 02:10PM ET,SF
+,,,,,,,,,,,,,,,1B/OF,Efrén Navarro (6408844),Efrén Navarro,6408844,2200,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,C,Max Stassi (6408765),Max Stassi,6408765,2200,Postponed,Hou
+,,,,,,,,,,,,,,,C,Ramón Cabrera (6408785),Ramón Cabrera,6408785,2200,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,OF,Ramón Flores (6409052),Ramón Flores,6409052,2200,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,2B/SS,Luis Sardiñas (6408894),Luis Sardiñas,6408894,2200,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,2B/SS,Pedro Ciriaco (6408892),Pedro Ciriaco,6408892,2100,Sea@Tex 04:05PM ET,Tex
+,,,,,,,,,,,,,,,C,Jhonatan Solano (6408771),Jhonatan Solano,6408771,2100,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,C,Jesús Sucre (6408798),Jesús Sucre,6408798,2100,Sea@Tex 04:05PM ET,Sea
+,,,,,,,,,,,,,,,OF,César Puello (6408986),César Puello,6408986,2100,Postponed,NYY
+,,,,,,,,,,,,,,,OF,Eury Pérez (6408989),Eury Pérez,6408989,2100,Postponed,Hou
+,,,,,,,,,,,,,,,OF,Kyle Waldrop (6409036),Kyle Waldrop,6409036,2100,Phi@Cin 04:10PM ET,Cin
+,,,,,,,,,,,,,,,C,Pedro Severino (6408773),Pedro Severino,6408773,2100,Was@Atl 04:10PM ET,Was
+,,,,,,,,,,,,,,,1B,A.J. Reed (6408811),A.J. Reed,6408811,2100,Postponed,Hou
+,,,,,,,,,,,,,,,OF,Chris Denorfia (6408980),Chris Denorfia,6408980,2000,Postponed,NYY
+,,,,,,,,,,,,,,,3B,Reid Brignac (6408899),Reid Brignac,6408899,2000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,OF,Shane Peterson (6409048),Shane Peterson,6409048,2000,SF@Mil 02:10PM ET,Mil
+,,,,,,,,,,,,,,,C,Ryan Lavarnway (6408772),Ryan Lavarnway,6408772,2000,Was@Atl 04:10PM ET,Atl
+,,,,,,,,,,,,,,,2B/3B,Ryan Jackson (6408875),Ryan Jackson,6408875,2000,Phi@Cin 04:10PM ET,Phi
+,,,,,,,,,,,,,,,1B,Sam Travis (6408819),Sam Travis,6408819,2000,Bos@Cle 04:10PM ET,Bos
